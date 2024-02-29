@@ -68,7 +68,8 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- int led=4;
+```
+int led=4;
 int sensorpot;
 void setup()
 {
@@ -95,7 +96,7 @@ void loop()
     delay(100);
   }
 }
-
+```
 
 SERIAL MONITOR
 ![Screenshot 2024-02-28 104527](https://github.com/hema-dharshini5/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147117728/f4aca416-43b2-408c-a9ca-926c2d3389e3)
