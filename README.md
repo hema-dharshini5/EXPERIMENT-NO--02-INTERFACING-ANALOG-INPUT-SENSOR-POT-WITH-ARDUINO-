@@ -123,4 +123,7 @@ SERIAL MONITOR
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+## RESULT :
+
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
+
